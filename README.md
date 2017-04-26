@@ -1,2 +1,2 @@
 # Vegetable-Fish-Skill-Stack
-I've wasted 7 years in doing nothing serious, so my starting spot is lower than those who have been working really hard during these years. I dought that whether can I follow up these guys, cause I have to give up doing those interesting things I like, but I want to give it a shot. It's a long shot. I can't tell how far can I go. I'll be working on it until I give it up.
+I've wasted 7 years in doing nothing serious, so my starting spot is lower than those who have been working really hard during these years. I dought that whether can I follow up these guys, cause I have to give up doing those interesting things I like, but I want to give it a shot. It's a long shot. I can't tell how far I can go. I'll be working on it until I give it up.
