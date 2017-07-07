@@ -5,8 +5,8 @@ public class JVMTest{
 
 	public void function(int a, int b, Object o){
 		int i = 0;
-		int j = 32767;
 		String s = "123";
+		int j = 32767;
 		int k = i + j;
 		Object o1 = new Object();
 		this.o = o1;
